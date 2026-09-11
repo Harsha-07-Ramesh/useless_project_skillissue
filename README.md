@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# Useless Skill Academy 🎯
 
 
 ## Basic Details
@@ -15,13 +15,13 @@
   
 
 ### Project Description
-Useless Skill Academy™ is a parody of modern online learning platforms where students can learn completely unnecessary skills such as ceiling staring, queue standing, overthinking, and mastering “Hmm.” It provides a fully interactive LMS-style experience with courses, lessons, quizzes, progress tracking, achievements, and certificates for skills nobody asked for.
+Useless Skill Academy is a parody of modern online learning platforms where students can learn completely unnecessary skills such as ceiling staring, queue standing, overthinking, and mastering “Hmm.” It provides a fully interactive LMS-style experience with courses, lessons, quizzes, progress tracking, achievements, and certificates for skills nobody asked for.
 
 ### The Problem (that doesn't exist)
 People spend far too much time learning useful skills that actually contribute to society. There is a serious lack of structured education for completely pointless abilities such as looking busy, overthinking simple decisions, and standing professionally in queues.
 
 ### The Solution (that nobody asked for)
-We created Useless Skill Academy™, a professional-looking learning platform that turns pointless everyday activities into structured courses. Students can learn useless skills, complete ridiculous assessments, earn achievements, increase their Uselessness Score, and receive prestigious certificates proving that they have mastered absolutely nothing useful.
+We created Useless Skill Academy, a professional-looking learning platform that turns pointless everyday activities into structured courses. Students can learn useless skills, complete ridiculous assessments, earn achievements, increase their Uselessness Score, and receive prestigious certificates proving that they have mastered absolutely nothing useful.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -35,11 +35,10 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
 No installation required , clone or download the repository
 
 # Run
-[Open index.html in Google Chrome or any modern web browser to run the application.]
+Open index.html in Google Chrome or any modern web browser to run the application.
 
 ### Project Documentation
 For Software:
@@ -56,41 +55,23 @@ For Software:
 *Course Details: Shows the selected course with its lessons, learning content, activities, and progress tracking.*
 
 # Diagrams
-![Workflow](<img width="1312" height="1199" alt="WhatsApp Image 2026-09-12 at 4 14 20 AM" src="https://github.com/user-attachments/assets/c23f7afc-aecd-4494-84f0-99c73779a28b" />
-)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![Workflow](https://github.com/user-attachments/assets/c23f7afc-aecd-4494-84f0-99c73779a28b)
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+The workflow illustrates the user journey through Useless Skill Academy — from landing page and login to the dashboard, course selection, lessons and interactive activities, final quiz, and course completion with achievements and certificates. User progress is maintained using browser LocalStorage.
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1SpIlUVM0y89Ssy_W4-b-9mejjVQvFLYH/view?usp=sharing
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+T HARSHA RAMESH
+ANNA MARIYA BABU
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
